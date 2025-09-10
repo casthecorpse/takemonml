@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Takemon",
-  url: "https://takemonml.neocities.org",
+  url: "https://casthecorpse.github.io/takemonml",
   description: `A tool for organizing small ARPGs and species.`
 }
 
